@@ -22,4 +22,4 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 ## Git Repo
 https://github.com/neharichi/EmployeeDirectory
 
-##[Live Application](https://still-basin-99529.herokuapp.com/))
+[Live Application](https://still-basin-99529.herokuapp.com/)
